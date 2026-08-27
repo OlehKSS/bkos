@@ -4,4 +4,4 @@ project(ComputationalGeometry)
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(bkos main.cpp)
+add_subdirectory(line-segment-intersection)

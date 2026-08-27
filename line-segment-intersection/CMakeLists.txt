@@ -1,0 +1,1 @@
+add_executable(bkos main.cpp)
